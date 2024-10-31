@@ -7,4 +7,4 @@
   <li>Clear screeen</li>
 </ul>
 <h4>Installation</h4>
-<p>Doesn't work with online compilators, you need to compile the .cpp file into a .exe file.</p>
+<p>Doesn't work with online compilers, you need to compile the .cpp file into a .exe file.</p>
